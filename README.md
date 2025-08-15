@@ -1,2 +1,2 @@
 # loancalculator
-simple loan calculator
+simple loan calculator by amrit rana
